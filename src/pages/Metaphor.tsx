@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const Flower: React.FC = () => (
   <img
-    src="/lovable-uploads/f3207866-7579-4f93-8aa3-f7c171d3881a.png"
+    src="/elderflower-uploads/f3207866-7579-4f93-8aa3-f7c171d3881a.png"
     alt="Elderflower blossom with butterfly representing Elderflower metaphor"
     className="w-full h-[360px] md:h-[440px] object-cover rounded-xl border border-border shadow-sm"
     loading="lazy"
